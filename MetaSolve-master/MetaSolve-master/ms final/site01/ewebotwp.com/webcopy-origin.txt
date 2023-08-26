@@ -1,0 +1,1208 @@
+Uri: https://ewebotwp.com/comments/feed/
+File Name: C:\Downloaded Web Sites\ewebotwp.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ewebotwp.com/feed/
+File Name: C:\Downloaded Web Sites\ewebotwp.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ewebotwp.com/home-09/
+File Name: C:\Downloaded Web Sites\ewebotwp.com\home-09\index.htm
+Content Type: text/html
+
+Uri: https://ewebotwp.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.7
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.7
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.14.1
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\elementor\assets\css\frontend-legacy.min.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.14.1
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.14.1
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.14.1
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.14.1
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\elementor\assets\js\preloaded-modules.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.14.1
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.14.1
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.20.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.14.1
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.14.1
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.14.1
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.14.1
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\elementor\assets\lib\swiper\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/gt3-themes-core/core/elementor/assets/js/core-frontend.js?ver=1.9.8
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\gt3-themes-core\core\elementor\assets\js\core-frontend.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/gt3-themes-core/core/elementor/assets/js/core-gridlist-woo.js?ver=1.9.8
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\gt3-themes-core\core\elementor\assets\js\core-gridlist-woo.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.9.6
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\mailchimp-for-wp\assets\js\forms.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/woo-variation-swatches/assets/css/frontend.min.css?ver=1688590480
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woo-variation-swatches\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/woo-variation-swatches/assets/js/frontend.min.js?ver=1688590480
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woo-variation-swatches\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce-ajax-filters/assets/frontend/css/fullmain.min.css?ver=1.6.4.4
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce-ajax-filters\assets\frontend\css\fullmain.min.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce-ajax-filters/berocket/assets/css/font-awesome.min.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce-ajax-filters\berocket\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=7.9.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=7.9.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css?ver=3.1.6
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce\assets\css\prettyPhoto.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=7.9.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=7.9.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=7.9.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.9.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.9.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.9.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.9.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.9.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.9.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.7.9.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.7.9.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js?ver=3.1.6
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce\assets\js\prettyPhoto\jquery.prettyPhoto.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21-wc.7.9.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce\assets\js\zoom\jquery.zoom.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=10.4.6
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=10.4.6
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/wpda-builder-pro/dist/css/frontend/frontend.css?ver=1689092654
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\wpda-builder-pro\dist\css\frontend\frontend.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/wpda-builder-pro/dist/css/frontend/mega-menu-frontend.css?ver=1689092654
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\wpda-builder-pro\dist\css\frontend\mega-menu-frontend.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/wpda-builder-pro/dist/js/frontend/frontend.js?ver=1689092654
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\wpda-builder-pro\dist\js\frontend\frontend.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/wpda-builder-pro/dist/js/frontend/mega-menu-frontend.js?ver=1689092654
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\wpda-builder-pro\dist\js\frontend\mega-menu-frontend.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/yith-woocommerce-quick-view/assets/css/yith-quick-view.css?ver=1.29.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\yith-woocommerce-quick-view\assets\css\yith-quick-view.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/yith-woocommerce-quick-view/assets/js/frontend.min.js?ver=1.29.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\yith-woocommerce-quick-view\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\yith-woocommerce-wishlist\assets\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\yith-woocommerce-wishlist\assets\css\jquery.selectBox.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/yith-woocommerce-wishlist/assets/css/style.css?ver=3.23.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\yith-woocommerce-wishlist\assets\css\style.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js?ver=1.2.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\yith-woocommerce-wishlist\assets\js\jquery.selectBox.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.min.js?ver=3.23.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\plugins\yith-woocommerce-wishlist\assets\js\jquery.yith-wcwl.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/iJWKBXyIfDnIV7nBrXw.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\iJWKBXyIfDnIV7nBrXw.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/JTURjIg1_i6t8kCHKm45_c5H3gnD_g.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\JTURjIg1_i6t8kCHKm45_c5H3gnD_g.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/KFOiCnqEu92Fr1Mu51QrEzAdLw.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\KFOiCnqEu92Fr1Mu51QrEzAdLw.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/KFOjCnqEu92Fr1Mu51TLBCc6CsQ.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\KFOjCnqEu92Fr1Mu51TLBCc6CsQ.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/KFOjCnqEu92Fr1Mu51TzBic6CsQ.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\KFOjCnqEu92Fr1Mu51TzBic6CsQ.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/KFOkCnqEu92Fr1MmgVxIIzI.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\KFOkCnqEu92Fr1MmgVxIIzI.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/KFOkCnqEu92Fr1Mu51xIIzI.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\KFOkCnqEu92Fr1Mu51xIIzI.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/KFOlCnqEu92Fr1MmYUtfBBc4.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\KFOlCnqEu92Fr1MmYUtfBBc4.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/KFOmCnqEu92Fr1Mu4mxK.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\KFOmCnqEu92Fr1Mu4mxK.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/manrope400.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\manrope400.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/manrope500.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\manrope500.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/manrope600.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\manrope600.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/pe03MImSLYBIv1o4X1M8cc8GBs5tU1E.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\pe03MImSLYBIv1o4X1M8cc8GBs5tU1E.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/pe0qMImSLYBIv1o4X1M8cce9I9s.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\pe0qMImSLYBIv1o4X1M8cce9I9s.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/XRXV3I6Li01BKofINeaB.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\XRXV3I6Li01BKofINeaB.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/XRXW3I6Li01BKofA6sKUYevI.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\XRXW3I6Li01BKofA6sKUYevI.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/XRXW3I6Li01BKofAjsOUYevI.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\XRXW3I6Li01BKofAjsOUYevI.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/fonts/XRXW3I6Li01BKofAksCUYevI.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\fonts\XRXW3I6Li01BKofAksCUYevI.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot-child/img/gt3_stats.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot-child\img\gt3_stats.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot/dist/css/modern-shop.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot\dist\css\modern-shop.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot/dist/css/theme-font.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot\dist\css\theme-font.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot/dist/css/woocommerce.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot\dist\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot/fonts/flaticon.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot\fonts\flaticon.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot/fonts/fontawesome-webfont.woff2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://ewebotwp.com/wp-content/themes/ewebot/woocommerce/js/easyzoom.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\themes\ewebot\woocommerce\js\easyzoom.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-content/uploads/2019/07/blog_img_01-300x300.jpg
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2019\07\blog_img_01-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://ewebotwp.com/wp-content/uploads/2019/08/blog_post_02-300x300.jpg
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2019\08\blog_post_02-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://ewebotwp.com/wp-content/uploads/2019/08/home5_blog_img-300x300.jpg
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2019\08\home5_blog_img-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://ewebotwp.com/wp-content/uploads/2019/08/logo_retina.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2019\08\logo_retina.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2019/08/logo_retinablack.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2019\08\logo_retinablack.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2019/09/map_point.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2019\09\map_point.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2019/12/img_box_29_violet.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2019\12\img_box_29_violet.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2019/12/img_box_30_violet-50x50.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2019\12\img_box_30_violet-50x50.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2019/12/img_box_30_violet.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2019\12\img_box_30_violet.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2019/12/logo_retina_white.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2019\12\logo_retina_white.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/05/home6_img_6-50x50.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\05\home6_img_6-50x50.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/05/home6_img_6.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\05\home6_img_6.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/05/home6_img_7-50x50.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\05\home6_img_7-50x50.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/05/home6_img_7.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\05\home6_img_7.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/05/home6_img_9-50x50.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\05\home6_img_9-50x50.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/05/home6_img_9.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\05\home6_img_9.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/10/home8_testimonials_img-100x100.jpg
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\10\home8_testimonials_img-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/10/home8_testimonials_img-150x150.jpg
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\10\home8_testimonials_img-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/10/home8_testimonials_img-50x50.jpg
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\10\home8_testimonials_img-50x50.jpg
+Content Type: image/jpeg
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/10/home8_testimonials_img.jpg
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\10\home8_testimonials_img.jpg
+Content Type: image/jpeg
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/air-track-300x49.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\air-track-300x49.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/air-track.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\air-track.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/Competitor-Analysis-100x100.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\Competitor-Analysis-100x100.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/Competitor-Analysis-300x296.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\Competitor-Analysis-300x296.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/Competitor-Analysis-50x50.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\Competitor-Analysis-50x50.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/Competitor-Analysis.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\Competitor-Analysis.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/contact_icon-white.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\contact_icon-white.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/home9_icon1.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\home9_icon1.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/home9_icon2.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\home9_icon2.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/home9_icon3.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\home9_icon3.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/SEO-Consultancy-100x100.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\SEO-Consultancy-100x100.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/SEO-Consultancy-300x296.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\SEO-Consultancy-300x296.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/SEO-Consultancy-50x50.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\SEO-Consultancy-50x50.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/SEO-Consultancy.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\SEO-Consultancy.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/Social-Media-Marketing-100x100.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\Social-Media-Marketing-100x100.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/Social-Media-Marketing-300x296.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\Social-Media-Marketing-300x296.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/Social-Media-Marketing-50x50.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\Social-Media-Marketing-50x50.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/Social-Media-Marketing.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\Social-Media-Marketing.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/sutra-hr.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\sutra-hr.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/sylexcoin.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\sylexcoin.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/testimonials_09_1-100x100.jpg
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\testimonials_09_1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/testimonials_09_1-50x50.jpg
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\testimonials_09_1-50x50.jpg
+Content Type: image/jpeg
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/testimonials_09_1.jpg
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\testimonials_09_1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/testimonials_09_2-50x50.jpg
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\testimonials_09_2-50x50.jpg
+Content Type: image/jpeg
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/testimonials_09_2.jpg
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\testimonials_09_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/website_traffic-300x236.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\website_traffic-300x236.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/website_traffic-480x377.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\website_traffic-480x377.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/website_traffic.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\website_traffic.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/What-We-Offer-300x212.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\What-We-Offer-300x212.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/What-We-Offer-480x340.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\What-We-Offer-480x340.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/What-We-Offer.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\What-We-Offer.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/work-together-300x235.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\work-together-300x235.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/work-together-480x376.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\work-together-480x376.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/work-together.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\work-together.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/zazzle-media-300x47.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\zazzle-media-300x47.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2020/11/zazzle-media.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2020\11\zazzle-media.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/04/elementor_icon.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\04\elementor_icon.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/04/lifetime_icon.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\04\lifetime_icon.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/04/wpdaddy_icon.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\04\wpdaddy_icon.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/06/smart_import_icon.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\06\smart_import_icon.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/06/woo_icon_shop.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\06\woo_icon_shop.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/auto-update-100x100.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\auto-update-100x100.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/auto-update-50x50.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\auto-update-50x50.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/auto-update.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\auto-update.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/custom-widgets-100x100.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\custom-widgets-100x100.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/custom-widgets-50x50.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\custom-widgets-50x50.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/custom-widgets.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\custom-widgets.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/mega-menu-100x100.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\mega-menu-100x100.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/mega-menu-50x50.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\mega-menu-50x50.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/mega-menu.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\mega-menu.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/multilanguage-100x100.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\multilanguage-100x100.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/multilanguage-50x50.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\multilanguage-50x50.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/multilanguage.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\multilanguage.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/optimization-100x100.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\optimization-100x100.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/optimization-50x50.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\optimization-50x50.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/optimization.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\optimization.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/responsive-retina-100x100.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\responsive-retina-100x100.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/responsive-retina-50x50.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\responsive-retina-50x50.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/responsive-retina.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\responsive-retina.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/theme-options-100x100.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\theme-options-100x100.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/theme-options-50x50.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\theme-options-50x50.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2021/10/theme-options.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2021\10\theme-options.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/2022/09/favicon.png
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\2022\09\favicon.png
+Content Type: image/png
+
+Uri: https://ewebotwp.com/wp-content/uploads/elementor/css/post-4061.css?ver=1687856799
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\elementor\css\post-4061.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/uploads/elementor/css/post-6450.css?ver=1687856799
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\elementor\css\post-6450.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/uploads/elementor/css/post-6516.css?ver=1687856799
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\elementor\css\post-6516.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/uploads/elementor/css/post-7.css?ver=1687856383
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/uploads/elementor/css/post-9676.css?ver=1687856383
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\elementor\css\post-9676.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/uploads/elementor/css/post-9684.css?ver=1687856383
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\elementor\css\post-9684.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/uploads/gt3-assets/css/footer-p_6450.css?ver=1690229023
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\gt3-assets\css\footer-p_6450.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/uploads/gt3-assets/css/header-p_6450.css?ver=1690229023
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\gt3-assets\css\header-p_6450.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-content/uploads/gt3-assets/js/footer-p_6450.js?ver=1690229023
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-content\uploads\gt3-assets\js\footer-p_6450.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-includes/css/classic-themes.min.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://ewebotwp.com/wp-includes/js/api-request.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-includes\js\api-request.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-includes/js/comment-reply.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-includes/js/dist/api-fetch.min.js?ver=bc0029ca2c943aec5311
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-includes\js\dist\api-fetch.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-includes/js/dist/url.min.js?ver=16185fce2fb043a0cfed
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-includes\js\dist\url.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-includes/js/wp-util.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://ewebotwp.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://ewebotwp.com/wp-json/
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://ewebotwp.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fewebotwp.com%2Fhome-09%2F
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://ewebotwp.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fewebotwp.com%2Fhome-09%2F&format=xml
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://ewebotwp.com/wp-json/wp/v2/pages/6450
+File Name: C:\Downloaded Web Sites\ewebotwp.com\wp-json\wp\v2\pages\6450
+Content Type: application/json
+
+Uri: https://ewebotwp.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\ewebotwp.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Rubik:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Nunito:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Manrope:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Nunito+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.2.2
+File Name: C:\Downloaded Web Sites\ewebotwp.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE9_C-bw.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_C-bw.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E9_C-bw.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FN_C-bw.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFN_C-bw.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_C-bw.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFN_C-bw.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3AHjabf.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3AHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UnK_c.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq992UnK_c.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq992UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UnK_c.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UnK_c.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE3U3f4c.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE3U3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE3U3f4c.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE3U3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE3U3f4c.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE3U3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FHU3f4c.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FHU3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFHU3f4c.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFHU3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FHU3f4c.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FHU3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFHU3f4c.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFHU3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-FV0Uw.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FV0Uw.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0Uw.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-FV0Uw.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFV0Uw.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-FV0Uw.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFV0Uw.ttf
+File Name: C:\Downloaded Web Sites\ewebotwp.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fshare.php%3Fu%3Dhttps%253A%252F%252Fewebotwp.com%252Fhow-to-increase-your-roi-through-scientific-sem%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=hi_IN&_rdr
+File Name: C:\Downloaded Web Sites\ewebotwp.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fshare.php%3Fu%3Dhttps%253A%252F%252Fewebotwp.com%252Fimage-post%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=hi_IN&_rdr
+File Name: C:\Downloaded Web Sites\ewebotwp.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fshare.php%3Fu%3Dhttps%253A%252F%252Fewebotwp.com%252Fstandart-post%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=hi_IN&_rdr
+File Name: C:\Downloaded Web Sites\ewebotwp.com\login-2.php
+Content Type: application/xhtml+xml
+
